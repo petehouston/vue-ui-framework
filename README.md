@@ -22,5 +22,4 @@ My personal collection of Vue UI framework.
 * [Mint UI](http://mint-ui.github.io/)
 * [Vue-WeUI](http://aidenzou.github.io/vue-weui)
 * [Vue Comps](https://hejx.herokuapp.com/preview/)
-* [Vux](https://vux.li)
 * [vue-onsenui](https://onsen.io/vue/)
