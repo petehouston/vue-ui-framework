@@ -12,6 +12,7 @@ My personal collection of Vue UI framework.
 * [vue-material](http://elviskang.github.io/vue-material)
 * [n3-components](https://n3-components.github.io/N3-components/)
 * [VUI](http://vui.github.io/ui/)
+* [VUIKit](http://vuikit.github.io/vuikit)
 
 ## Mobile
 
