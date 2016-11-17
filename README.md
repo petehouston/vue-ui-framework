@@ -17,3 +17,4 @@ My personal collection of Vue UI framework.
 ## Mobile
 
 * [Mint UI](http://mint-ui.github.io/)
+* [Vue-WeUI](http://aidenzou.github.io/vue-weui)
