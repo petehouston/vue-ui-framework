@@ -8,6 +8,7 @@ My personal collection of Vue UI framework.
 * [Keen UI](https://josephuspaye.github.io/Keen-UI/)
 * [Quasar Framework](http://quasar-framework.org/)
 * [VueStrap = VueJS + Bootstrap 4](http://kzima.github.io/vuestrap-base-components/)
+* [VueBoot = Vue 1.0 + Bootstrap 4.0 alpha](http://morgul.github.io/vueboot/)
 
 ## Mobile
 
