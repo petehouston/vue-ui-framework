@@ -13,7 +13,7 @@ My personal collection of Vue UI framework.
 * [n3-components](https://n3-components.github.io/N3-components/)
 * [VUI](http://vui.github.io/ui/)
 * [VUIKit](http://vuikit.github.io/vuikit)
-* [Vue Ant.Design](http://okoala.github.io/vue-antd)
+* [Vue Ant.Design](http://okoala.github.io/vue-antd/#!/components)
 * [amazeui-vue](https://github.com/zcoding/amazeui-vue)
 * [MuseUI](https://museui.github.io/#/index)
 
