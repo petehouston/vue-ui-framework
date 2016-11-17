@@ -10,6 +10,7 @@ My personal collection of Vue UI framework.
 * [VueStrap = VueJS + Bootstrap 4](http://kzima.github.io/vuestrap-base-components/)
 * [VueBoot = Vue 1.0 + Bootstrap 4.0 alpha](http://morgul.github.io/vueboot/)
 * [vue-material](http://elviskang.github.io/vue-material)
+* [n3-components](https://n3-components.github.io/N3-components/)
 
 ## Mobile
 
