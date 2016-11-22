@@ -15,6 +15,7 @@ My personal collection of Vue UI framework.
 * [VUIKit](http://vuikit.github.io/vuikit)
 * [Vue Ant.Design](http://okoala.github.io/vue-antd)
 * [amazeui-vue](https://github.com/zcoding/amazeui-vue)
+* [iView](https://www.iviewui.com/)
 
 ## Mobile
 
