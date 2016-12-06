@@ -17,7 +17,7 @@ My personal collection of Vue UI framework.
 * [amazeui-vue](https://github.com/zcoding/amazeui-vue)
 * [MuseUI](https://museui.github.io/#/index)
 * [iView](https://www.iviewui.com/)
-
+* [Vue Material = Material Design + Vue 2](https://vuematerial.github.io/)
 
 ## Mobile
 
