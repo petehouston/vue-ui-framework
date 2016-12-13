@@ -25,3 +25,4 @@ My personal collection of Vue UI framework.
 * [Vue-WeUI](http://aidenzou.github.io/vue-weui)
 * [Vue Comps](https://hejx.herokuapp.com/preview/)
 * [vue-onsenui](https://onsen.io/vue/)
+* [Vonic UI](http://im.dahoo.wang/vonic/docs/#!/)
