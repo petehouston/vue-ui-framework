@@ -18,6 +18,7 @@ My personal collection of Vue UI framework.
 * [MuseUI](https://museui.github.io/#/index)
 * [iView](https://www.iviewui.com/)
 * [Vue Material = Material Design + Vue 2](https://vuematerial.github.io/)
+* [Vuetify](https://vuetifyjs.com/)
 
 ## Mobile
 
