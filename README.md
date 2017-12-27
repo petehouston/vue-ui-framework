@@ -9,7 +9,7 @@ My personal collection of Vue UI framework.
 * [Quasar Framework](http://quasar-framework.org/)
 * [VueStrap = VueJS + Bootstrap 4](http://kzima.github.io/vuestrap-base-components/)
 * [VueBoot = Vue 1.0 + Bootstrap 4.0 alpha](http://morgul.github.io/vueboot/)
-* [vue-material](http://elviskang.github.io/vue-material)
+* [vue-material = Vue + Materialize](http://elviskang.github.io/vue-material)
 * [n3-components](https://n3-components.github.io/N3-components/)
 * [VUI](http://vui.github.io/ui/)
 * [VUIKit](http://vuikit.github.io/vuikit)
@@ -21,6 +21,7 @@ My personal collection of Vue UI framework.
 * [AliTelecom UI - AliTelecom UI System](https://aliqin.github.io/atui/docs/atui/introduce)
 * [Bootstrap Vue - Twitter Bootstrap 4 Components for Vue.JS 2](https://bootstrap-vue.github.io/)
 * [AT-UI by O2 Team](https://at-ui.github.io/at-ui/#/en)
+* [Vue v1 + Material](https://vuematerial.io/)
 
 ## Mobile
 
