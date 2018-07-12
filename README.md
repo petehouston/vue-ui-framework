@@ -4,6 +4,7 @@ My personal collection of Vue UI framework.
 
 ## Web
 
+* [Buefy = VueJS + Bulma](https://buefy.github.io/)
 * [Element UI](http://element.eleme.io/)
 * [Keen UI](https://josephuspaye.github.io/Keen-UI/)
 * [Quasar Framework](http://quasar-framework.org/)
