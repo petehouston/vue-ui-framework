@@ -24,6 +24,7 @@ My personal collection of Vue UI framework.
 * [Bootstrap Vue - Twitter Bootstrap 4 Components for Vue.JS 2](https://bootstrap-vue.github.io/)
 * [AT-UI by O2 Team](https://at-ui.github.io/at-ui/#/en)
 * [Vue v1 + Material](https://vuematerial.io/)
+* [Vuesax](https://lusaxweb.github.io/vuesax/#/)
 
 ## Mobile
 
