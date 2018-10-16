@@ -34,3 +34,4 @@ My personal collection of Vue UI framework.
 * [vue-onsenui](https://onsen.io/vue/)
 * [Vonic UI](http://im.dahoo.wang/vonic/docs/#!/)
 * [Cube UI](https://didi.github.io/cube-ui/)
+* [Vant-lightweight](https://youzan.github.io/vant/#/en-US/intro)
