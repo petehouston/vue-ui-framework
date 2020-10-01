@@ -28,6 +28,7 @@ My personal collection of Vue UI framework.
 * [framevuerk](https://framevuerk.com/)
 * [Fish UI](https://github.com/myliang/fish-ui)
 * [Vux](https://github.com/airyland/vux)
+* [CoreUI Vue](https://coreui.io/vue/) (coming in two versions: PRO and Open-Source)
 
 ## Mobile
 
