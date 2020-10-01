@@ -27,6 +27,7 @@ My personal collection of Vue UI framework.
 * [Vuesax](https://lusaxweb.github.io/vuesax/#/)
 * [framevuerk](https://framevuerk.com/)
 * [Fish UI](https://github.com/myliang/fish-ui)
+* [Vux](https://github.com/airyland/vux)
 
 ## Mobile
 
