@@ -32,6 +32,7 @@ My personal collection of Vue UI framework.
 * [Element Plus](https://element-plus.org/en-US/)
 * [Equal](https://quatrochan.github.io/Equal/)
 * [PrimeVue](https://www.primefaces.org/primevue/)
+* [Chakra UI Vue](https://vue.chakra-ui.com/)
 
 ## Mobile
 
