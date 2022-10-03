@@ -30,6 +30,7 @@ My personal collection of Vue UI framework.
 * [Vux](https://github.com/airyland/vux)
 * [CoreUI Vue](https://coreui.io/vue/) (coming in two versions: PRO and Open-Source)
 * [Element Plus](https://element-plus.org/en-US/)
+* [Equal](https://quatrochan.github.io/Equal/)
 
 ## Mobile
 
